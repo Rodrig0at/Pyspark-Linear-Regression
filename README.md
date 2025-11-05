@@ -11,7 +11,7 @@ El modelo utiliza como variables de entrada los precios de apertura, máximo y m
 - `Portfolio_.ipynb`: Script principal con todo el código del modelo y visualización.
 - `Portafolio_A01771433.twb`: Dashboard hecho en tableau, con los datos dados en el csv.
 - `Pyspark_Gold_Prediction_Papper.pdf`: Documentación del modelo.
-- `Requeriments.txt`: Documentación del modelo.
+- `Requeriments.txt`: Archivo CSV.
 
 
 ## Uso
